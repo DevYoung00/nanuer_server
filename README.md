@@ -1,6 +1,10 @@
 # nanuer_server
 
+![image (4)](https://user-images.githubusercontent.com/93467085/187355429-671f15de-a8e4-416d-963c-ee66d791853c.png)
+
+
 **UMC 앱개발 프로젝트 나누어 팀 서버 코드**
+
 
 |디자이너|클라이언트|서버|
 |:---:|:---:|:---:|
@@ -14,5 +18,3 @@ https://www.notion.so/kidzero/8d99ca190ca04a08a131eab5dac4b4da
 <br/> 
 https://www.notion.so/kidzero/Click-0cb47b599c7e4fb29d7417717f650c29
 <br/> 
-
-![image (4)](https://user-images.githubusercontent.com/93467085/187355429-671f15de-a8e4-416d-963c-ee66d791853c.png)
