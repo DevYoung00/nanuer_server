@@ -1,9 +1,8 @@
-# nanuer_server
+# UMC 앱개발 프로젝트 나누어 팀 서버 코드
 
 ![image (4)](https://user-images.githubusercontent.com/93467085/187355429-671f15de-a8e4-416d-963c-ee66d791853c.png)
 
 
-**UMC 앱개발 프로젝트 나누어 팀 서버 코드**
 
 
 |디자이너|클라이언트|서버|
